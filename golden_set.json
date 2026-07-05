@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "question": "What was TCS's Q4 FY26 revenue?",
+    "markers": [
+      "revenue",
+      "fy26",
+      "q4"
+    ],
+    "difficulty": "answerable"
+  },
+  {
+    "id": 2,
+    "question": "How much was TCS's free cash flow?",
+    "markers": [
+      "free cash flow",
+      "cash flow"
+    ],
+    "difficulty": "answerable"
+  },
+  {
+    "id": 3,
+    "question": "What is the capital expenditure guidance for FY26?",
+    "markers": [
+      "capital expenditure",
+      "capex",
+      "guidance"
+    ],
+    "difficulty": "answerable"
+  }
+]

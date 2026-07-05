@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chunks.jsonl
+embeddings.npy
+data/
